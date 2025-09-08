@@ -1,0 +1,16 @@
+{
+  "name": "restaurant-app",
+  "version": "1.0.0",
+  "description": "A web application for a restaurant.",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restaurant",
+    "inventory"
+  ],
+  "author": "",
+  "license": "ISC"
+}
